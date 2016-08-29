@@ -5,6 +5,8 @@ npm-debug.log*
 
 
 .DS_Store
+.idea
+.vscode
 node_modules/
 dist/
 npm-debug.log
